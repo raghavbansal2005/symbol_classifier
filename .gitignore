@@ -1,0 +1,11 @@
+*.pkl
+src/testing.pkl
+src/training.pkl
+src/validation.pkl
+src/weights.pkl
+data/
+dataset/
+fig/
+testing.pkl
+training.pkl
+validation.pkl
